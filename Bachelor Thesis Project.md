@@ -11,7 +11,7 @@ This research-oriented project involved the formal modeling and verification of 
 
 ***Verification**: Conducted analysis of these models using the **SPIN Model Checker** and compared CMH and hierarchical deadlock detection algorithm to Centralied WFG deadlock detection algorithm.
 
-***Analysis**: Performed rigorous testing on scalability, fault-tolerance, and error-recovery protocols.
+***Analysis**: Performed rigorous testing on scalability, fault-tolerance, and error-recovery protocols .
 
 ### Key Outcomes
 * Successfully compared these deadlock detection algorithm.
