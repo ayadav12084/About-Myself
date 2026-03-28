@@ -1,5 +1,6 @@
 # Analysis of Distributed Deadlock Detection System 🛡️
 **Academic Supervisor:** Joaquin Aguado (Constructor University)
+
 **Grade:** 1.3 (90%) 
 
 ### Project Overview
